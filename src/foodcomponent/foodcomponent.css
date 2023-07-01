@@ -1,0 +1,17 @@
+
+.btn-food {
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+  margin: 5px;
+  border-radius: 10px;
+  background-color:#ffb4b4;
+  cursor: pointer;
+  color:#FFFDD0
+  
+}
+.card-img{
+  min-height: 300px;
+  width:100%;
+}
+
